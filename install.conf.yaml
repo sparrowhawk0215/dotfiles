@@ -5,6 +5,9 @@
 - clean: ['~']
 
 - link:
+    ~/.config/i3:
+      create: true
+      path: config/i3
     ~/.gitconfig: gitconfig
     ~/.zshrc: zshrc
 
