@@ -9,3 +9,9 @@
     ~/.gitconfig: gitconfig
 
 
+- clean: ['~']
+
+- link:
+    ~/.zshrc: zshrc
+
+
