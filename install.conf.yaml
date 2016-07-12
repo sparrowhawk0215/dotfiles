@@ -15,3 +15,8 @@
     ~/.zshrc: zshrc
 
 
+- clean: ['~']
+
+- link:
+
+
